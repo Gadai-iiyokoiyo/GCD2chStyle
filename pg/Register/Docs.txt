@@ -1,0 +1,9 @@
+<center>
+    <form action="/reg" method="post">
+      <input type="submit" value="Register"><br>
+      NickName:<input name="name"><br>
+      Mail:<input name="Mail">
+    </form>
+  </center>
+</body>
+</html>
